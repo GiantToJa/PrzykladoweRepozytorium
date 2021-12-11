@@ -1,1 +1,1 @@
-# PrzykladoweRepozytorium
+# PrzykladoweRepozytorium na prezentację
